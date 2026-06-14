@@ -3,7 +3,7 @@
 <!-- Upstream InnerTune strings -->
 <!-- Do not add new features here -->
 <!-- Try to re-use strings here, but be careful on its usage e.g. verb vs noun -->
-<!-- "InnerTune" is replaced with "echomusic" -->
+<!-- "InnerTune" is replaced with "melomusic" -->
 <!-- Translators: Do not modify this file for translations, use InnerTune's Weblate instead. -->
 
 <resources>
@@ -150,8 +150,6 @@
     <string name="file_size">File size</string>
     <string name="unknown">Unknown</string>
     <string name="copied">Copied to clipboard</string>
-    <string name="hide_status_bar_on_fullscreen">Hide status bar on fullscreen</string>
-    <string name="hide_status_bar_on_fullscreen_desc">Hide the status bar when lyrics fullscreen mode is active</string>
 
     <string name="edit_lyrics">Edit lyrics</string>
     <string name="search_lyrics">Search lyrics</string>
@@ -292,7 +290,7 @@
     <string name="action_logout">Log out</string>
     <string name="action_login">Log in</string>
     <string name="login">Login</string>
-    <string name="show_audio_quality_badge">Show Music Quality badge</string>
+    <string name="show_audio_quality_badge">Show audio quality badge</string>
     <string name="not_logged_in">Not logged in</string>
     <string name="login_failed">Login failed</string>
 
@@ -305,7 +303,7 @@
     <string name="restart_to_take_effect">Restart to take effect</string>
 
     <string name="player_and_audio">Player and audio</string>
-    <string name="audio_quality">Music Quality</string>
+    <string name="audio_quality">Audio quality</string>
     <string name="network_ip_version">Network IP Version</string>
     <string name="ip_version_auto">Automatic</string>
     <string name="ip_version_ipv4">Forced IPv4</string>
@@ -368,7 +366,7 @@
     <string name="restore_failed">Failed to restore backup</string>
 
     <string name="discord_integration">Discord Integration</string>
-    <string name="discord_information">echomusic uses the KizzyRPC library to set your Discord account\'s status. This involves using the Discord Gateway connection, which may be considered a violation of Discord\'s TOS. However, there are no known cases of user accounts being suspended for this reason. Use at your own risk.\n\echomusic will only extract your token, and everything else is stored locally.</string>
+    <string name="discord_information">melomusic uses the KizzyRPC library to set your Discord account\'s status. This involves using the Discord Gateway connection, which may be considered a violation of Discord\'s TOS. However, there are no known cases of user accounts being suspended for this reason. Use at your own risk.\n\melomusic will only extract your token, and everything else is stored locally.</string>
     <string name="dismiss">Dismiss</string>
     <string name="options">Options</string>
     <string name="preview">Preview</string>
@@ -386,7 +384,7 @@
     <string name="wired_headphones">Wired headphones</string>
     <string name="hdmi">HDMI</string>
     <string name="phone_speaker">Phone speaker</string>
-    <string name="audio_quality_title">Music Quality</string>
+    <string name="audio_quality_title">Audio Quality</string>
     <string name="battery_content_desc">Battery Level</string>
     <string name="done">Done</string>
     <string name="audio_devices">Audio devices</string>
